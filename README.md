@@ -12,7 +12,7 @@
 **Builder of AI from the ground up.**  
 I specialize in creating custom transformer-based architectures using raw C++ and CUDA — no frameworks, just logic, math, and performance.
 
-- 🔧 **Currently Building:** [Ada – My Transformer AI Engine](https://github.com/bran7230/CPP-AND-CUDA-AI)
+- 🔧 **Currently Building:** [Syntari – My Transformer AI Engine](https://github.com/bran7230/CPP-AND-CUDA-AI)
 - 🔍 **Learning:** CUDA memory tuning, transformer scaling, GPT-level design
 - 💬 **Ask Me About:** C++, CUDA, matrix ops, FP16, tokenizer design, transformers
 - 📫 **Contact:** brandon.ta.trumble@icloud.com  
@@ -41,7 +41,7 @@ I specialize in creating custom transformer-based architectures using raw C++ an
 
 ##  Featured Projects(All in my CUDA repo/Neural network C# repo)
 
-### [Ada](https://github.com/bran7230/CPP-AND-CUDA-AI)
+### [Syntari](https://github.com/bran7230/CPP-AND-CUDA-AI)
 > A fully custom GPT-like AI engine built with C++ and CUDA.  
 Implements transformer architecture from scratch with optimized matrix math and token handling.
 
@@ -55,7 +55,7 @@ Implements transformer architecture from scratch with optimized matrix math and 
 
 ##  Goals
 
-- Scale Ada to GPT-2 Medium or Large level  
+- Scale Syntari to GPT-2 Medium or Large level  
 - Build an end-to-end inference pipeline: tokenizer → transformer → output  
 - Wrap the AI engine into a web API (C++ backend)  
 - Eventually rewrite it all in pure C for performance challenge
