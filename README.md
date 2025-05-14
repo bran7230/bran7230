@@ -20,7 +20,7 @@ I specialize in creating custom transformer-based architectures using raw C++ an
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Languages            | AI/ML & Math                   | Tools & Platforms        |
 |----------------------|--------------------------------|--------------------------|
