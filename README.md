@@ -1,24 +1,56 @@
-# Hi, I'm Brandon 👋
+# Hi, I'm Brandon Trumble
 
-I'm a Computer Science student building optimized AI systems from scratch using **C++**, **CUDA**, and **Python**. I enjoy designing high-performance tools, exploring low-level system architecture, and solving complex problems with clean, efficient code.
+Dedicated to building fast, efficient AI systems from scratch.
 
-## 🔧 Skills
-- **Languages:** C++, Python, Java, JavaScript, HTML/CSS, Bash
-- **AI/ML:** CUDA, FP16 optimization, GPU-accelerated matrix ops, softmax, transformers
-- **Tools:** Git, Visual Studio, VSCode, GDB, CUDA Toolkit
-- **Concepts:** Object-Oriented Programming (OOP), performance benchmarking, test automation, low-level debugging
-- **Other:** SQL, shell scripting, markdown, documentation writing
+Designing optimized C++/CUDA architectures and low-level machine learning tools.
 
-## 📂 Projects
-- **[Ada (AI Engine)](https://github.com/bran7230)** – Custom transformer-based neural network built in C++ with CUDA, featuring FP16 math, Tensor Core acceleration, and full training/inference pipeline.
-- **[Portfolio Site](https://github.com/bran7230)** – Personal site to showcase projects (in development).
-- More coming soon...
-
-## 💡 Interests
-AI development, GPU programming, system optimization, low-level software architecture, and learning how things work under the hood.
+![AI coding gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1xbW9sOHQ4ODlyNW5jOW83cGF0a25nNmF6YTU5N2lqM2RpbzV3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-📫 **Contact:**  
-brandon.ta.trumble@icloud.com  
-[LinkedIn](https://www.linkedin.com/in/brandon-trumble-528812351) • [GitHub](https://github.com/bran7230)
+## About Me
+
+- Currently building: [Ada – C++/CUDA-powered Transformer Engine](https://github.com/bran7230/CPP-AND-CUDA-AI)
+- Interested in: AI acceleration, GPU programming, neural network design, transformers
+- Ask me about: C++, CUDA, FP16, matrix ops, softmax, tokenizer design, training pipelines
+- Learning now: Backpropagation in CUDA, transformer scaling, memory optimization
+- Contact me: brandon.ta.trumble@icloud.com  
+- Portfolio: [GitHub Profile](https://github.com/bran7230)
+
+---
+
+## Tech Stack
+
+### Languages  
+C++ • Python • Java • JavaScript • HTML • CSS • SQL • Bash
+
+### AI / Deep Learning  
+CUDA • Tensor Cores • FP16 Arithmetic • Matrix Multiplication • Softmax • Backpropagation
+
+### Tools & Platforms  
+Git • Visual Studio • VSCode • GDB • CMake • Markdown
+
+### Concepts  
+Neural Networks • Transformer Architecture • Token Embeddings • Optimization & Benchmarking  
+Manual Weight Updates • Gradient Descent • Forward/Backward Pass Design
+
+---
+
+## Selected Projects
+
+- **Ada (C++ AI Engine)** – Transformer-based model built from scratch in C++/CUDA  
+- **Tokenizer Generator** – Lightweight token ID mapping system used for embedding layers  
+- **Softmax Benchmarker** – CUDA vs CPU softmax speed comparison with FP16 optimization
+
+---
+
+## Goals
+
+- Scale Ada toward GPT-2 level performance  
+- Build a full pipeline: tokenizer → embedding → transformer → inference  
+- Translate Ada from C++ to pure C as a challenge project  
+- Develop a lightweight web API for real-time model querying
+
+---
+
+Thanks for visiting. Feel free to explore my projects or reach out to collaborate.
