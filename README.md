@@ -24,7 +24,7 @@ I specialize in creating custom transformer-based architectures using raw C++ an
 
 | Languages            | AI/ML & Math                   | Tools & Platforms        |
 |----------------------|--------------------------------|--------------------------|
-| C++, Python, Java    | CUDA, FP16, Softmax, Backprop  | Git, VSCode, GDB, CMake  |
+| C++, Python, Java    | CUDA, FP16, Softmax, Backprop  | Git, VSCode, GDB |
 | JavaScript, SQL, Bash| Matrix Ops, Embeddings         | Markdown, CLI Utilities  |
 
 ---
