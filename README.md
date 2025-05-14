@@ -39,7 +39,7 @@ I specialize in creating custom transformer-based architectures using raw C++ an
 
 ---
 
-##  Featured Projects
+##  Featured Projects(All in my CUDA repo/Neural network C# repo)
 
 ### [Ada](https://github.com/bran7230/CPP-AND-CUDA-AI)
 > A fully custom GPT-like AI engine built with C++ and CUDA.  
