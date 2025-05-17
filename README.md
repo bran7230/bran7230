@@ -48,7 +48,7 @@ Implements transformer architecture from scratch with optimized matrix math and 
 ### [Tokenizer & Embedding Generator (NeuralNetwork c#)](https://github.com/bran7230/Neuralnetwork)
 > A hand-crafted token ID mapping system with embedding support, written for speed and clarity.
 
-### [CUDA vs CPU Softmax Benchmark(Syntari Ai)]((https://github.com/bran7230/CPP-AND-CUDA-AI))
+### [CUDA vs CPU Softmax Benchmark (Syntari Ai)]((https://github.com/bran7230/CPP-AND-CUDA-AI))
 > Performance benchmarking suite that compares CPU softmax vs shared-memory CUDA + FP16 optimization.
 
 ---
