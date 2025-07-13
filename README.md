@@ -15,7 +15,7 @@ I specialize in creating custom transformer-based architectures using raw C++ an
 - 🔧 **Currently Building:** [Syntari – My Transformer AI Engine](https://github.com/bran7230/CPP-AND-CUDA-AI)
 - 🔍 **Learning:** CUDA memory tuning, transformer scaling, GPT-level design
 - 💬 **Ask Me About:** C++, CUDA, matrix ops, FP16, tokenizer design, transformers
-- 📫 **Contact:** brandon.ta.trumble@icloud.com  
+- 📫 **Contact:** 
 - 🌐 **GitHub:** [github.com/bran7230](https://github.com/bran7230)
 
 ---
