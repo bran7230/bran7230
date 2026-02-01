@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### Full Stack Engineer & C++ Enthusiast
+### Full Stack Engineer & C Enthusiast
 I'm a developer based in Ontario, currently working as a Full Stack Engineer while diving deep into low-level systems programming and operating system architecture.
 
 ---
@@ -20,9 +20,9 @@ I'm a developer based in Ontario, currently working as a Full Stack Engineer whi
 ---
 
 ### 🛠️ Tech Stack & Interests
-* **Languages:** C#, C++, SQL
+* **Languages:** C#, C++, C, SQL
 * **Web:** ASP.NET Core, HTML/CSS
-* **Systems:** X11 Graphics Programming, Process Management, Low-level Architecture
+* **Systems:** Process Management, Low-level Architecture
 
 ---
 
