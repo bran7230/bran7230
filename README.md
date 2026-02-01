@@ -4,7 +4,10 @@
 
 <ul>
   <li>
-    <b>Software Developer Intern at Young Drivers of Canada:</b> Developed the backend of a scheduling website in ASP.NET Core, applying memory caching and optimizations to improve flow and reduce DB usage. Created additional tools including Android apps, validators, and automations, while performing IT duties and maintaining existing codebases. <a href="https://yd.com/">Young Drivers Website</a>
+    <b>Full Stack Engineer at Young Drivers of Canada:</b> Spearheading the ongoing development of the student scheduling platform and internal software ecosystem. Responsible for optimizing the ASP.NET Core backend, maintaining Android applications, and building data validators and business automations. <a href="https://yd.com/">Young Drivers Website</a>
+  </li>
+  <li>
+    <b>Software Developer Intern:</b> Performed IT maintenance and assisted in codebase management. Developed the initial backend for the scheduling website in ASP.NET Core, applying memory caching to improve flow and reduce database usage.
   </li>
 </ul>
 
