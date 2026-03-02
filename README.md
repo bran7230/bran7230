@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
 
 ### Full Stack Engineer & C Enthusiast
 I'm a developer based in Ontario, currently working as a Full Stack Engineer while diving deep into low-level systems programming and operating system architecture.
@@ -6,7 +6,7 @@ I'm a developer based in Ontario, currently working as a Full Stack Engineer whi
 ---
 
 
-### 💼 Experience
+### Experience
 
 **Full Stack Engineer** | [Young Drivers of Canada](https://yd.com/)
 > *Current*
@@ -20,7 +20,7 @@ I'm a developer based in Ontario, currently working as a Full Stack Engineer whi
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### Tech Stack & Interests
 * **Languages:** C#, C++, C, SQL
 * **Web:** ASP.NET Core, HTML/CSS
 * **Systems:** Process Management, Low-level Architecture
