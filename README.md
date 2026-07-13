@@ -7,7 +7,7 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 
 ### Featured Projects
 
-* **[Golang Application / API](https://github.com/bran7230/golang-proj):** ["This api is for video game servers(Roblox) and serves as a basis for developers to use, modify, and learn."]
+* **[Golang Roblox Server API](https://github.com/bran7230/golang-proj):** A high-performance REST API built in Go, designed specifically for Roblox video game servers. It provides a robust, extensible foundation for game developers to integrate, modify, and learn backend server mechanics.
 * **Native C++ Graphics Library:** Engineered a custom single-header C++ graphics library from scratch using native X11 wire protocols, bypassing third-party toolkits to directly handle windowing, interactive button logic, and text rendering.
 
 ---
