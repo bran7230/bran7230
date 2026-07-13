@@ -1,7 +1,14 @@
 # Hi there! I'm Brandon. 
 
-### Full Stack Engineer & Low-Level Systems Enthusiast
-I'm a developer based in Ontario, currently completing my studies at Georgian College (graduating August 2026). By day, I work as a Full Stack Engineer building out production backend architectures and mobile applications. By night, I'm diving deep into Linux operating system workflows, Go, and low-level systems programming.
+### Backend Engineer & Go Enthusiast
+I'm a developer based in Ontario, currently completing my studies at Georgian College (graduating August 2026). By day, I work as a Full Stack Engineer building out production backend architectures. By night, I'm diving deep into Go, distributed systems, and low-level Linux operating system workflows.
+
+---
+
+### Featured Projects
+
+* **[Golang Application / API](https://github.com/bran7230/golang-proj):** ["This api is for video game servers(Roblox) and serves as a basis for developers to use, modify, and learn."]
+* **Native C++ Graphics Library:** Engineered a custom single-header C++ graphics library from scratch using native X11 wire protocols, bypassing third-party toolkits to directly handle windowing, interactive button logic, and text rendering.
 
 ---
 
@@ -10,8 +17,8 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 **Full Stack Engineer** | [Young Drivers of Canada](https://yd.com/)
 > *Current*
 * **Spearheading** the ongoing refactoring and development of a proprietary student scheduling platform and internal software ecosystem.
-* **Owning** the optimization of backend APIs (ASP.NET Core, NestJS) and complex MySQL database queries to handle high-volume business logic.
-* **Maintaining and developing** native Android applications, focusing on custom user interface flows, splash screens, and fragment navigation.
+* **Owning** the optimization of backend APIs and complex MySQL database queries to handle high-volume business logic efficiently.
+* **Maintaining and developing** native Android applications, ensuring reliable cross-platform integrations with the core backend.
 
 **Software Developer Intern** | Young Drivers of Canada
 > *Previous*
@@ -20,16 +27,10 @@ I'm a developer based in Ontario, currently completing my studies at Georgian Co
 
 ---
 
-### Featured Projects
-
-* **Native C++ Graphics Library:** Engineered a custom single-header C++ graphics library from scratch using native X11 wire protocols, bypassing third-party toolkits to directly handle windowing, interactive button logic, and text rendering.
-
----
-
 ### Tech Stack & Interests
-* **Languages:** C, C++, C#, Go, SQL
-* **Backend & Web:** ASP.NET Core, NestJS, MySQL, HTML/CSS
-* **Systems & Mobile:** Linux Environments, Android Mobile Development, Native API Protocols, Process Management
+* **Languages:** Go (Golang), C, C++, C#, SQL
+* **Backend & Systems:** REST API Architecture, Linux Environments, Process Management, ASP.NET Core, NestJS, MySQL
+* **Focus Areas:** Concurrency, Microservices, Low-level Systems Programming
 
 ---
 
